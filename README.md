@@ -1,4 +1,6 @@
 # Hello-Ignite
 for Ignite Demo
 
-this change is only for branch readme-edits.
+This is for verification merge.
+this change is only for the 1st branch readme-edits.
+ok.
